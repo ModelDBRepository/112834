@@ -70,6 +70,4 @@ These model files were supplied by John Wolf.
 from euler as per
 [http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592](http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592)
 
----
-
-2025-06-02: Standardized to Markdown.
+2025-06-02 Standardized to Markdown.
